@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "croner": "^7.0.4",
+    "growatt": "^0.7.1",
+    "jquery": "^3.7.1",
+    "mqtt": "^5.1.4"
+  }
+}
